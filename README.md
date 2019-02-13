@@ -1,1 +1,1 @@
-![https://github.com/Lanxiaofan/MyCalendar/blob/master/calendar_show.png]
+![image](https://github.com/Lanxiaofan/MyCalendar/blob/master/calendar_show.png)
