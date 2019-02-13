@@ -1,0 +1,69 @@
+<resources>
+
+    <dimen name="week_bar_height">32dp</dimen>
+    <dimen name="week_calendar_height">45dp</dimen>
+    <dimen name="month_calendar_height">274dp</dimen>
+    <dimen name="calendar_min_distance">5dp</dimen>
+    <dimen name="auto_scroll_distance">15dp</dimen>
+    <integer name="calendar_text_size">14</integer>
+
+    <dimen name="layout_margin_2dp">2dp</dimen>
+    <dimen name="layout_margin_4dp">4dp</dimen>
+    <dimen name="layout_margin_8dp">8dp</dimen>
+    <dimen name="layout_margin_10dp">10dp</dimen>
+    <dimen name="layout_margin_11dp">11dp</dimen>
+    <dimen name="layout_margin_12dp">12dp</dimen>
+    <dimen name="layout_margin_15dp">15dp</dimen>
+    <dimen name="layout_margin_16dp">16dp</dimen>
+    <dimen name="layout_margin_17dp">17dp</dimen>
+    <dimen name="layout_margin_18dp">18dp</dimen>
+    <dimen name="layout_margin_progress">16dp</dimen>
+    <dimen name="layout_margin_16.5dp">16.5dp</dimen>
+    <dimen name="layout_margin_20dp">20dp</dimen>
+    <dimen name="layout_margin_21dp">21dp</dimen>
+    <dimen name="layout_margin_22dp">22dp</dimen>
+    <dimen name="layout_margin_23dp">23dp</dimen>
+    <dimen name="layout_margin_24dp">24dp</dimen>
+    <dimen name="layout_margin_25dp">25dp</dimen>
+    <dimen name="layout_margin_26dp">26dp</dimen>
+    <dimen name="layout_margin_27dp">27dp</dimen>
+    <dimen name="layout_margin_28dp">28dp</dimen>
+    <dimen name="layout_margin_29dp">29dp</dimen>
+    <dimen name="layout_margin_30dp">30dp</dimen>
+    <dimen name="layout_margin_wallet">30dp</dimen>
+    <dimen name="layout_margin_35dp">35dp</dimen>
+    <dimen name="layout_margin_37dp">37dp</dimen>
+    <dimen name="layout_margin_40dp">40dp</dimen>
+    <dimen name="layout_margin_line">40dp</dimen>
+    <dimen name="layout_margin_44dp">44dp</dimen>
+    <dimen name="layout_margin_45dp">45dp</dimen>
+    <dimen name="layout_margin_50dp">50dp</dimen>
+    <dimen name="layout_margin_55dp">55dp</dimen>
+    <dimen name="layout_margin_60dp">60dp</dimen>
+    <dimen name="layout_margin_65dp">65dp</dimen>
+
+    <dimen name="text_size_9sp">9sp</dimen>
+    <dimen name="text_size_10sp">10sp</dimen>
+    <dimen name="text_size_11sp">11sp</dimen>
+    <dimen name="text_size_12sp">12sp</dimen>
+    <dimen name="text_size_wallet_12sp">12sp</dimen>
+    <dimen name="text_size_13sp">13sp</dimen>
+    <dimen name="text_size_14sp">14sp</dimen>
+    <dimen name="text_size_15sp">15sp</dimen>
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="spacing_medium">8dp</dimen>
+    <dimen name="text_size_17sp">17sp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="text_size_20sp">20sp</dimen>
+    <dimen name="text_size_22sp">22sp</dimen>
+    <dimen name="text_size_23sp_shenhe">23sp</dimen>
+    <dimen name="text_size_25sp">25sp</dimen>
+    <dimen name="text_size_24sp">24sp</dimen>
+    <dimen name="text_size_28sp">28sp</dimen>
+    <dimen name="text_size_36sp">36sp</dimen>
+    <dimen name="text_size_48sp">48sp</dimen>
+    <dimen name="text_size_44sp">44sp</dimen>
+    <dimen name="text_size_60sp">60sp</dimen>
+    <dimen name="text_size_70dp">65dp</dimen>
+
+</resources>
